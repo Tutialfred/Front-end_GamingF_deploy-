@@ -18,7 +18,6 @@ import EditUserProfile from "./components/PanelProfile/UserProfile/EditUserProfi
 import Contact from "./components/Contacto/Contact"
 import Confirmation from "./components/Confirmation/Confirmation"
 import ModifyProducts from "./components/Form/ModifyProducts"
-
 import Sidebar from "./admin/scenes/global/Sidebar"
 import Dashboard from "./admin/scenes/dashboard"
 import Products from "./admin/scenes/products"

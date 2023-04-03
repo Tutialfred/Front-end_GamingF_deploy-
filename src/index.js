@@ -18,7 +18,7 @@ import { BrowserRouter } from "react-router-dom";
 const { REACT_APP_DEPLOY } = process.env
 
 // axios.defaults.baseURL = REACT_APP_DEPLOY || "http://localhost:3001"
-axios.defaults.baseURL = "https://back-endgamingfdeploy-production.up.railway.app/"
+axios.defaults.baseURL = "https://back-endgamingfdeploy-production.up.railway.app/" || "https://localhost:3001"
 
 ReactDOM.render(
   <Provider store={store}>
