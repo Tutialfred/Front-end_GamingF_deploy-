@@ -1,7 +1,5 @@
 import axios from "axios";
-//
 export const GET_USER_ID = "GET_USER_ID";
-//
 export const GET_ALL_PROD = "GET_ALL_PROD";
 export const SEARCH_BY_NAME = "SEARCH_BY_NAME";
 export const GET_DETAIL = "GET_DETAIL";
@@ -13,7 +11,6 @@ export const CHANGE_SORT = "CHANGE_SORT";
 export const CHANGE_FILTER = "CHANGE_FILTER";
 export const CHANGE_PAGE = "CHANGE_PAGE";
 export const RESET_SORT = "RESET_SORT";
-
 export const SET_PRICE_RANGE = "SET_PRICE_RANGE";
 export const SET_SORT = "SET_SORT";
 export const SET_FILTER_CATEGORY = "SET_FILTER_CATEGORY";
